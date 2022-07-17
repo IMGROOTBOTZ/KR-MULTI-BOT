@@ -1,7 +1,7 @@
 {
-    "name": "KR multi bot",
+    "name": "KR-MULTI-BOT",
     "description": "Bot can Made by pyrogram",
-    "repository": "https://github.com/KR-BOTZ/KR-MULTI-BOT",
+    "repository": "https://github.com/KR-Botz/KR-MULTI-BOT",
     "logo": "https://telegra.ph/file/454be11aa166a81f99896.jpg",
     "keywords": ["tgbot", "pyrogram", "telegram bot"],
     "env": {        
