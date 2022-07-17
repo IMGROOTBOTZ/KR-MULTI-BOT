@@ -1,8 +1,8 @@
 {
-    "name": "Jeol multi bot",
+    "name": "KR multi bot",
     "description": "Bot can Made by pyrogram",
-    "repository": "https://github.com/Lastdrogs/TG-MULTI-BOT",
-    "logo": "https://telegra.ph/file/f30ecbc3096c55380520c.jpg",
+    "repository": "https://github.com/KR-BOTZ/KR-MULTI-BOT",
+    "logo": "https://telegra.ph/file/454be11aa166a81f99896.jpg",
     "keywords": ["tgbot", "pyrogram", "telegram bot"],
     "env": {        
         "API_ID": {
@@ -21,7 +21,7 @@
             "required": true
         },
         "FORCE_SUB": {
-            "description": "Your Force Subscribe Channel username without @ linke this :- mkn_bots_updates.",       
+            "description": "Your Force Subscribe Channel username without @ linke this :- KR_Botz.",       
             "required": false
         },
         "DB_URL": {
