@@ -4,7 +4,7 @@
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lastdrogs/TG-MULTI-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KR-BOTZ/KR-MULTI-BOT)
 
 ## Deploy in okteto
  [![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com)    
