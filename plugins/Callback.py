@@ -63,7 +63,7 @@ async def callback(bot, msg):
              reply_markup=InlineKeyboardMarkup( [[
                   InlineKeyboardButton('๑۩ tค๓เl ۞ التاميل ۩๑', url='https://t.me/tamil_kid')
                   ],[
-                  InlineKeyboardButton("👨‍💻 𝐃𝐄𝐕𝐒 1", url="https://t.me/JP_Jeol_org"),
+                  InlineKeyboardButton("𝗠ʀ ⚡ 𝗝ᴇᴏʟ 𝗧𝗚", url="https://t.me/TG_BI_CH"),
                   InlineKeyboardButton("👨‍💻 𝙼𝚛.𝙼𝙺𝙽 𝚃𝙶", url="https://t.me/mr_MKN")
                   ],[
                   InlineKeyboardButton("❣️ 𝐒𝐎𝐔𝐑𝐂𝐄 𝐂𝐎𝐃𝐄 ❣️", url="https://github.com/Jeolpaul/TG-MULTI-BOT"),
