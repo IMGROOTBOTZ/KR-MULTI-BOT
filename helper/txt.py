@@ -25,20 +25,6 @@ Tʜᴀɴᴋ Yᴏᴜ Fᴏʀ Usɪɴɢ Mᴇ❣️ """
 ╚═════❰ @KR_Botz ❱═════❍ </b>"""
 
     HELP_TXT = """
-<b><u>𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦</u></b>
-
-**◉ Sᴇɴᴅ Cʜᴀɴɴᴇʟ Lᴀsᴛ Mᴇssᴀɢᴇ Wɪᴛʜ
-  Fᴏʀᴡᴇʀᴅ Tᴀɢ Tᴏ Gᴇᴛ Tʜᴇ Cʜᴀɴɴᴇʟ ɪᴅ 💯
-
-◉ /id - Yᴏᴜʀ Tɢ Iᴅ & Iɴғᴏ
-
-Tᴏ Mᴀᴋᴇ Lᴏɢᴏ - /logo Your Nᴀᴍᴇ
-Tᴏ Mᴀᴋᴇ Sǫᴜᴀʀᴇ Lᴏɢᴏ -  /logosq Yᴏᴜʀ Nᴀᴍᴇ**
-
-♻️ Exᴀᴍᴘʟᴇ:
-`/logo KR`
-`/logosq BGM`
-
 **🤩Tʜᴀɴᴋs Fᴏʀ Usɪɴɢ Mᴇ😍
 
 ®️ Mᴀᴅᴇ Wɪᴛʜ ❣️ @KR_Botz 
@@ -151,7 +137,28 @@ Mᴀᴅᴇ Bʏ <a href=https://t.me/KR_Botz>𝗞𝗥 ⚠️ 𝗕ᴏᴛᴢ</a> </
 • 🏅 [𝙼𝚛.𝙼𝙺𝙽 𝚃𝙶](https://t.me/mr_MKN)
 • 🎖 [๑۩ tค๓เl ۞ التاميل ۩๑](https://t.me/tamil_kid) </b>
 """
+    LOGO_TXT = """
+<b><u>𝗟𝗢𝗚𝗢 𝗠𝗔𝗞𝗘</u>
 
+Tᴏ Mᴀᴋᴇ Lᴏɢᴏ - /logo Your Nᴀᴍᴇ
+Tᴏ Mᴀᴋᴇ Sǫᴜᴀʀᴇ Lᴏɢᴏ -  /logosq Yᴏᴜʀ Nᴀᴍᴇ
+
+♻️ Exᴀᴍᴘʟᴇ:
+`/logo KR`
+`/logosq BGM`
+
+Mᴀᴅᴇ Bʏ <a href=https://t.me/KR_Botz>𝗞𝗥 ⚠️ 𝗕ᴏᴛᴢ</a> </b>
+"""
+
+    INFO_TXT = """
+<b><u>𝗧𝗚 𝗜𝗗 & 𝗜𝗡𝗙𝗢</u>
+
+◉ Sᴇɴᴅ Cʜᴀɴɴᴇʟ Lᴀsᴛ Mᴇssᴀɢᴇ Wɪᴛʜ Fᴏʀᴡᴇʀᴅ Tᴀɢ Tᴏ Gᴇᴛ Tʜᴇ Cʜᴀɴɴᴇʟ ɪᴅ 💯
+
+◉ /id - Yᴏᴜʀ Tɢ Iᴅ & Iɴғᴏ
+
+Mᴀᴅᴇ Bʏ <a href=https://t.me/KR_Botz>𝗞𝗥 ⚠️ 𝗕ᴏᴛᴢ</a> </b>
+"""
 
 
 
