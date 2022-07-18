@@ -66,7 +66,7 @@ async def callback(bot, msg):
                   InlineKeyboardButton("👨‍💻 𝐃𝐄𝐕𝐒 1", url="https://t.me/JP_Jeol_org"),
                   InlineKeyboardButton("👨‍💻 𝙼𝚛.𝙼𝙺𝙽 𝚃𝙶", url="https://t.me/mr_MKN")
                   ],[
-                  InlineKeyboardButton("❣️ 𝐒𝐎𝐔𝐑𝐂𝐄 𝐂𝐎𝐃𝐄 ❣️", url="https://github.com/Jeolpaul/TG-MULTI-BOT"),
+                  InlineKeyboardButton("❣️ 𝐒𝐎𝐔𝐑𝐂𝐄 𝐂𝐎𝐃𝐄 ❣️", alert="https://github.com/Jeolpaul/TG-MULTI-BOT"),
                   ],[
                   InlineKeyboardButton("≺≺ Bᴀᴄᴋ", callback_data="about"),
                   InlineKeyboardButton("🗑 Cʟᴏsᴇ", callback_data="close")
@@ -82,7 +82,7 @@ async def callback(bot, msg):
                   InlineKeyboardButton("👨‍💻 𝐃𝐄𝐕𝐒 1", url="https://t.me/JP_Jeol_org"),
                   InlineKeyboardButton("👨‍💻 𝙼𝚛.𝙼𝙺𝙽 𝚃𝙶", url="https://t.me/mr_MKN")
                   ],[
-                  InlineKeyboardButton("❣️ Sᴏᴜʀᴄᴇ ⚡ Cᴏᴅᴇ ❣️", url="https://github.com/Jeolpaul/TG-MULTI-BOT"),
+                  InlineKeyboardButton("❣️ Sᴏᴜʀᴄᴇ ⚡ Cᴏᴅᴇ ❣️", url="https://github.com/KR-Botz/KR-MULTI-BOT"),
                   ],[
                   InlineKeyboardButton("≺≺ Bᴀᴄᴋ", callback_data="about"),
                   InlineKeyboardButton("🗑 Cʟᴏsᴇ", callback_data="close")
