@@ -19,6 +19,9 @@ async def callback(bot, msg):
                   InlineKeyboardButton(' 😝 Fᴜɴ  ', callback_data='fun'), 
                   InlineKeyboardButton(' Sᴛɪᴄᴋᴇʀ ID ', callback_data='sticker')
                   ],[
+                  InlineKeyboardButton(' 𝗧ɢ 𝗜ᴅ & 𝗜ɴғᴏ ', callback_data='info'), 
+                  InlineKeyboardButton(' 𝗟ᴏɢᴏ 🌿 𝗘ᴅɪᴛ ', callback_data='logo')
+                  ],[
                   InlineKeyboardButton(' Dᴏɴᴀᴛᴇ 💸 Mᴇ ', callback_data='don')
                   ],[
                   InlineKeyboardButton("⛺ Hᴏᴍᴇ", callback_data = "start"),
@@ -112,6 +115,29 @@ async def callback(bot, msg):
              text=kr.TELE_TXT,
                  reply_markup=InlineKeyboardMarkup( [[
                      InlineKeyboardButton(' Dᴏɴᴀᴛᴇ 💸 Mᴇ ', callback_data='don')
+                     ],[
+                     InlineKeyboardButton("≺≺ Bᴀᴄᴋ", callback_data = "help"),
+                     InlineKeyboardButton("🗑 Cʟᴏsᴇ", callback_data = "close")
+                     ]]
+                     )
+                 )
+   elif data == "info":
+         await msg.message.edit(
+             text=kr.INFO_TXT,
+                 reply_markup=InlineKeyboardMarkup( [[
+                     InlineKeyboardButton('Dᴏɴᴀᴛᴇ ', callback_data = "don"),
+                     ],[
+                     InlineKeyboardButton("≺≺ Bᴀᴄᴋ", callback_data = "help"),
+                     InlineKeyboardButton("🗑 Cʟᴏsᴇ", callback_data = "close")
+                     ]]
+                     )
+                 )
+
+   elif data == "logo":
+         await msg.message.edit(
+             text=kr.LOGO_TXT,
+                 reply_markup=InlineKeyboardMarkup( [[
+                     InlineKeyboardButton('Dᴏɴᴀᴛᴇ ', callback_data = "don"),
                      ],[
                      InlineKeyboardButton("≺≺ Bᴀᴄᴋ", callback_data = "help"),
                      InlineKeyboardButton("🗑 Cʟᴏsᴇ", callback_data = "close")
