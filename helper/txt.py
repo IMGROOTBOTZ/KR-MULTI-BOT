@@ -147,7 +147,14 @@ Mᴀᴅᴇ Bʏ <a href=https://t.me/KR_Botz>𝗞𝗥 ⚠️ 𝗕ᴏᴛᴢ</a> </
 """
 
     SOR_TXT = """
-HII
+<b><u>𝗡𝗢𝗧𝗘:</u>
+• 𝗞𝗥 ⚠️ 𝗕ᴏᴛᴢ Is A Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.  
+• Sᴏᴜʀᴄᴇ - https://github.com/KR-Botz/KR-MULTI-BOT
+
+<u>𝗗𝗘𝗩𝗦:</u>
+• 🥇 [𝗕𝗘𝗧𝗔 👑 𝗕𝗢𝗧𝗭](https://github.com/Jeolpaul) 
+• 🏅 [𝙼𝚛.𝙼𝙺𝙽 𝚃𝙶](https://t.me/mr_MKN)
+• 🎖 [๑۩ tค๓เl ۞ التاميل ۩๑](https://t.me/tamil_kid) </b>
 """
 
 
