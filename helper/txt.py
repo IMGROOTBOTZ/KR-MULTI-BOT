@@ -32,11 +32,6 @@ Tʜᴀɴᴋ Yᴏᴜ Fᴏʀ Usɪɴɢ Mᴇ❣️ """
 
 ◉ /id - Yᴏᴜʀ Tɢ Iᴅ & Iɴғᴏ
 
-◉ /telegraph - Rᴇᴘʟʏ Tᴏ Bᴇʟᴏᴡ 𝟻ᴍʙ Mᴇᴅɪᴀ
-  Tᴏ Gᴇᴛ Tᴇʟᴇɢʀᴀᴘʜ Lɪɴᴋ💯
-
-◉ /stickerid - Rᴇᴘʟʏ Tᴏ Aɴʏ Sᴛɪᴄᴋᴇʀ Tᴏ Gᴇᴛ Sᴛɪᴄᴋᴇʀ ID
-
 Tᴏ Mᴀᴋᴇ Lᴏɢᴏ - /logo Your Nᴀᴍᴇ
 Tᴏ Mᴀᴋᴇ Sǫᴜᴀʀᴇ Lᴏɢᴏ -  /logosq Yᴏᴜʀ Nᴀᴍᴇ**
 
