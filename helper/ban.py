@@ -13,7 +13,7 @@ async def BanChek(bot: Client, cmd: Message):
         if user.status == "banned":
             await bot.send_message(
                 chat_id=cmd.from_user.id,
-                text="⚠️**𝚂𝙾𝚁𝚁𝚈 𝙳𝚄𝙳𝙴 𝚈𝙾𝚄 𝙰𝚁𝙴 𝙱𝙰𝙽𝙽𝙴𝙳 \n𝙰𝙲𝙲𝙴𝚂𝚂 𝙳𝙴𝙽𝙸𝙴𝙳 ⚠️ 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 [𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙶𝚁𝙾𝚄𝙿](https://t.me/BETA_BOTSUPPORT)**",
+                text="⚠️**𝚂𝙾𝚁𝚁𝚈 𝙳𝚄𝙳𝙴 𝚈𝙾𝚄 𝙰𝚁𝙴 𝙱𝙰𝙽𝙽𝙴𝙳 \n𝙰𝙲𝙲𝙴𝚂𝚂 𝙳𝙴𝙽𝙸𝙴𝙳 ⚠️ 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 [𝚂𝚄𝙿𝙿𝙾𝚁𝚃 𝙶𝚁𝙾𝚄𝙿](https://t.me/KR_Join)**",
                 parse_mode="markdown",
                 disable_web_page_preview=True
             )
