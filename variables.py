@@ -6,9 +6,9 @@ id_pattern = re.compile(r'^.\d+$')
 
 STAT_STICK = os.environ.get("STAT_STICK", "CAACAgIAAxkBAAPhYtMjBHKaN6vmK3Sa0yQG5ztBYcYAAtENAALLcXBLzta_M17zWJceBA")
 
-PICS = os.environ.get("PICS", "https://telegra.ph/file/34fd203eb89fd747ffb57.jpg").split()
+PICS = os.environ.get("PICS", "https://telegra.ph/file/90fd1fbafed55fc0779a2.jpg").split()
 
-ADMIN = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '900873119').split()]
+ADMIN = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '5401999526').split()]
 
 DB_URL = os.environ.get("DB_URL", "")
 
