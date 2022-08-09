@@ -16,7 +16,7 @@ Tʜᴀɴᴋ Yᴏᴜ Fᴏʀ Usɪɴɢ Mᴇ❣️ """
 ║┣⪼👦 Oᴡɴᴇʀ : <a href=https://t.me/tamil_kid>ђ ค ℘ ℘ ꪗ 💥 Ҝ|ᗪ</a>
 ║┣⪼👨‍💻 Dᴇᴠ : <a href=https://t.me/LastDrogz>Lᴀsᴛ 🐲 Dʀᴏɢᴢ</a>
 ║┣⪼📢 Uᴘᴅᴀᴛᴇ : <a href=https://t.me/kr_botz>𝗞𝗥 ⚠︎ 𝗕ᴏᴛᴢ</a>
-║┣⪼❣️ Sᴜᴘᴘᴏʀᴛ : <a href=https://t.me/kr_join>𝗞𝗥 👽 𝗝ᴏɪɴ</a>
+║┣⪼❣️ Sᴜᴘᴘᴏʀᴛ : <a href=http://t.me/kr_join>𝗞𝗥 👽 𝗝ᴏɪɴ</a>
 ║┣⪼📡 Hᴏsᴛᴇᴅ Oɴ : <a href=https://dashboard.heroku.com>Hᴇʀᴏᴋᴜ</a>
 ║┣⪼🗣️ Lᴀɴɢᴜᴀɢᴇ : <a href=https://www.python.org>Pʏᴛʜᴏɴ3</a>
 ║┣⪼📚 Lɪʙʀᴀʀʏ : <a href=https://github.com/pyrogram>Pʏʀᴏɢʀᴀᴍ</a>  
@@ -27,10 +27,10 @@ Tʜᴀɴᴋ Yᴏᴜ Fᴏʀ Usɪɴɢ Mᴇ❣️ """
     HELP_TXT = """
 **🤩Tʜᴀɴᴋs Fᴏʀ Usɪɴɢ Mᴇ😍
 
-®️ Mᴀᴅᴇ Wɪᴛʜ ❣️ @KR_Botz 
+®️ Mᴀᴅᴇ Wɪᴛʜ ❣️ @killxcoder
 ⚜️ Bᴏᴛ Aɴʏ Issᴜᴇs Cᴏɴᴛᴀᴄᴛ Mᴇ
-𝗔𝗱𝗺𝗶𝗻 : @Tamil_KiD
-𝗦𝘂𝗽𝗽𝗼𝗿𝘁 : @KR_Join**
+𝗔𝗱𝗺𝗶𝗻 : @tamilan444
+𝗦𝘂𝗽𝗽𝗼𝗿𝘁 : @IAMGROOTBOTZ**
 """
 
     DON_TXT = """
@@ -46,15 +46,15 @@ Of 10₹, 20₹, 30₹, 50₹, 70₹, 100₹, 200₹ 😊
  
 GᴏᴏɢʟᴇPᴀʏ / Pᴀʏᴛᴏɴ / PʜᴏɴPᴀʏ / PᴀʏPᴀʟ
  
- Oʀ Dᴏɴᴀᴛᴇ: Mᴇssᴀɢᴇ Mᴇ @Tamil_KiD </b>
+ Oʀ Dᴏɴᴀᴛᴇ: Mᴇssᴀɢᴇ Mᴇ @TAMILAN444 </b>
 """
 
     DEV_TXT = """
 <b><u>Special Thanks & Developers</b></u>
 
-• 🥇 [𝗕𝗘𝗧𝗔 👑 𝗕𝗢𝗧𝗭](https://github.com/Jeolpaul) 
-• 🏅 [𝙼𝚛.𝙼𝙺𝙽 𝚃𝙶](https://t.me/mr_MKN)
-• 🎖 [๑۩ tค๓เl ۞ التاميل ۩๑](https://t.me/tamil_kid)
+
+
+• 🎖 [JOIN](https://t.me/IAMGROOTBOTZ)
 """
 
     PRI_TXT = """
@@ -64,7 +64,7 @@ I Cᴀɴ Cʀᴇᴀᴛᴇ A Pᴇʀsᴏɴᴀʟ Bᴏᴛ Fᴏʀ Yᴏᴜ Iɴ Vᴇʀʏ
   
             Jᴜsᴛ Pᴀʏ 💰 ₹𝟾𝟶/Bᴏᴛ Fᴏʀ Bᴏᴛs. [Sᴏᴍᴇ Bᴏᴛs Lɪᴋᴇ Mᴏᴠɪᴇs Bᴏᴛs Cᴀɴ Cʜᴀʀɢᴇ ₹𝟷𝟼𝟶 Wɪᴛʜ 1𝟶𝟶ᴋ Fɪʟᴇs. ] 
 
-🗣📲📞 Cᴏɴᴛᴀᴄᴛ  Mᴇ : @Tamil_KiD
+🗣📲📞 Cᴏɴᴛᴀᴄᴛ  Mᴇ : @Tamilan444
 
 Pʟᴇᴀsᴇ!!!! Dᴏɴ'ᴛ Dᴇᴍᴀɴᴅs Oᴛᴛ Bᴏᴛs Oʀ Pʀᴇᴍɪᴜᴍ Dᴏᴡɴʟᴏᴀᴅᴇʀ Bᴏᴛs Eʟsᴇ Bᴀɴ!.... 
 
@@ -73,7 +73,7 @@ Pʟᴇᴀsᴇ!!!! Dᴏɴ'ᴛ Dᴇᴍᴀɴᴅs Oᴛᴛ Bᴏᴛs Oʀ Pʀᴇᴍɪ�
 
 🤑 Dᴏɴᴀᴛɪᴏɴ Fᴏʀ Us Wʜᴏ Gɪᴠᴇs Cʜᴇᴀᴘᴇsᴛ Pʀɪᴄᴇ Bᴏᴛ :-
 
- <code> happysfx24@ybl </code> or @Tamil_KiD </b>
+ <code> happysfx24@ybl </code> or @Tamilan444 </b>
 """
 
     TELE_TXT = """
@@ -90,7 +90,7 @@ Pʟᴇᴀsᴇ!!!! Dᴏɴ'ᴛ Dᴇᴍᴀɴᴅs Oᴛᴛ Bᴏᴛs Oʀ Pʀᴇᴍɪ�
 • ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ɪs ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ɢᴏᴜᴘs ᴀɴᴅ ᴘᴍs
 • ᴛʜɪs Command ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ʙʏ ᴇᴠᴇʀʏᴏɴᴇ
 
-Mᴀᴅᴇ Bʏ <a href=https://t.me/KR_Botz>KR ⚠️ Bᴏᴛᴢ</a> 
+Mᴀᴅᴇ Bʏ <a href=https://t.me/KILLXCODER>⚠️ Iamgrootbotz</a> 
 
 </b>
 """
@@ -108,7 +108,7 @@ Tᴏ Gᴇᴛ Sᴛɪᴄᴋᴇʀ ID
  
 ◉ Rᴇᴘʟʏ Tᴏ Aɴʏ Sᴛɪᴄᴋᴇʀ /stickerid
 
-Mᴀᴅᴇ Bʏ <a href=https://t.me/KR_Botz>𝗞𝗥 ⚠️ 𝗕ᴏᴛᴢ</a> 
+Mᴀᴅᴇ Bʏ <a href=https://t.me/KILLXCODER>IAMGROOT ⚠️ 𝗕ᴏᴛᴢ</a> 
 </b>
 """
 
@@ -124,18 +124,17 @@ Mᴀᴅᴇ Bʏ <a href=https://t.me/KR_Botz>𝗞𝗥 ⚠️ 𝗕ᴏᴛᴢ</a>
 ◉ /bowling  
 ◉ /tenpins   
 
-Mᴀᴅᴇ Bʏ <a href=https://t.me/KR_Botz>𝗞𝗥 ⚠️ 𝗕ᴏᴛᴢ</a> </b>
+Mᴀᴅᴇ Bʏ <a href=https://t.me/iamgrootbotz>IAMGROOT ⚠️ 𝗕ᴏᴛᴢ</a> </b>
 """
 
     SOR_TXT = """
 <b><u>𝗡𝗢𝗧𝗘:</u>
-• 𝗞𝗥 ⚠️ 𝗕ᴏᴛᴢ Is A Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.  
-• Sᴏᴜʀᴄᴇ - https://github.com/KR-Botz/KR-MULTI-BOT
+• IAMGROOT ⚠️ 𝗕ᴏᴛᴢ Is A Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.  
+
 
 <u>𝗗𝗘𝗩𝗦:</u>
-• 🥇 [𝗕𝗘𝗧𝗔 👑 𝗕𝗢𝗧𝗭](https://github.com/Jeolpaul) 
-• 🏅 [𝙼𝚛.𝙼𝙺𝙽 𝚃𝙶](https://t.me/mr_MKN)
-• 🎖 [๑۩ tค๓เl ۞ التاميل ۩๑](https://t.me/tamil_kid) </b>
+
+• 🎖 [JOIN](https://t.me/IAMGROOTBOTZ) </b>
 """
     LOGO_TXT = """
 <b><u>𝗟𝗢𝗚𝗢 𝗠𝗔𝗞𝗘</u>
@@ -144,10 +143,10 @@ Tᴏ Mᴀᴋᴇ Lᴏɢᴏ - /logo Your Nᴀᴍᴇ
 Tᴏ Mᴀᴋᴇ Sǫᴜᴀʀᴇ Lᴏɢᴏ -  /logosq Yᴏᴜʀ Nᴀᴍᴇ
 
 ♻️ Exᴀᴍᴘʟᴇ:
-`/logo KR`
-`/logosq BGM`
+`/logo love`
+`/logosq @tamilan444`
 
-Mᴀᴅᴇ Bʏ <a href=https://t.me/KR_Botz>𝗞𝗥 ⚠️ 𝗕ᴏᴛᴢ</a> </b>
+Mᴀᴅᴇ Bʏ <a href=https://t.me/KILLXCODER>IAMGROOT ⚠️ 𝗕ᴏᴛᴢ</a> </b>
 """
 
     INFO_TXT = """
@@ -157,7 +156,7 @@ Mᴀᴅᴇ Bʏ <a href=https://t.me/KR_Botz>𝗞𝗥 ⚠️ 𝗕ᴏᴛᴢ</a> </
 
 ◉ /id - Yᴏᴜʀ Tɢ Iᴅ & Iɴғᴏ
 
-Mᴀᴅᴇ Bʏ <a href=https://t.me/KR_Botz>𝗞𝗥 ⚠️ 𝗕ᴏᴛᴢ</a> </b>
+Mᴀᴅᴇ Bʏ <a href=https://t.me/KILLXCODER>IAMGROOT ⚠️ 𝗕ᴏᴛᴢ</a> </b>
 """
 
 
